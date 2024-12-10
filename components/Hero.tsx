@@ -1,11 +1,9 @@
 import { FiDownload } from "react-icons/fi";
 import MagicButton from "./MagicButton";
 import { Spotlight } from "./ui/Spotlight";
-import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import Social from "./Social";
 import Photo from "./Photo";
 import Stats from "./Stats";
-import { FaLocationArrow } from "react-icons/fa";
 
 const Hero = () => {
   return (

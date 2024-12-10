@@ -15,7 +15,7 @@ const socials = [
   },
   {
     icon: <FaGithub />,
-    path: "",
+    path: "https://github.com/Ezharkarim",
   },
   {
     icon: <FaFacebook />,

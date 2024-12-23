@@ -43,13 +43,13 @@ const Hero = () => {
               proficiant in various programming languages and technologies.
             </p>
             <div className="flex flex-col lg:flex-row items-center gap-8">
-              <div>
+              <a href="/files/ezharkarim.pdf" download>
                 <MagicButton
                   title="DOWNLOAD CV"
                   icon={<FiDownload />}
                   position="right"
                 />
-              </div>
+              </a>
 
               <div className=" mt-0 lg:mt-10  mb-8 lg:mb-0">
                 <Social />

@@ -37,6 +37,7 @@ const Social = () => {
         return (
           <Link
             key={index}
+            target="_blank"
             href={item.path}
             className=" w-9 h-9 border border-[#CBACF9] rounded-full flex justify-center items-center text-[#CBACF9] text-base hover:bg-[#111928] hover:text-primary hover:transition-all duration-500"
           >
